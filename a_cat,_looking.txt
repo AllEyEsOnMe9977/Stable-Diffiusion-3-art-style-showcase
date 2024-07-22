@@ -1,0 +1,122 @@
+a cat, looking at the viewer/camera
+
+cinematic:
+a cat, looking at the viewer/camera, 8K UHD, film grain, shallow depth of field, anamorphic lens flare, cinematic lighting, dramatic shadows, high contrast, rule of thirds composition, golden hour, lens distortion, motion blur, color grading, atmospheric haze, ultra-detailed textures, HDR, IMAX aspect ratio
+
+oilPainting:
+a cat, looking at the viewer/camera, Oil painting, visible brush strokes, impasto technique, canvas texture, Renaissance style, rich saturated colors, chiaroscuro lighting, sfumato technique, glazing layers, alla prima style, palette knife textures, varnished finish, trompe l'oeil effects, Flemish realism
+
+anime:
+a cat, looking at the viewer/camera, Anime style, cel shading, vibrant color palette, clean linework, large expressive eyes, exaggerated facial features, dynamic action lines, speed lines, chibi proportions, detailed hair highlights, sparkles and visual effects, moe aesthetic, Studio Ghibli inspired backgrounds
+
+digitalArt:
+a cat, looking at the viewer/camera, Digital painting, high resolution (8K), intricate details, vivid color harmonies, concept art style, fantasy elements, hyperrealistic textures, particle effects, volumetric lighting, ambient occlusion, normal mapping, specular highlights, subsurface scattering, rule of thirds composition
+
+hyperrealism:
+a cat, looking at the viewer/camera, Hyperrealistic, photorealistic, ultra-detailed micro textures, 8K resolution, tack-sharp focus, HDR lighting, subsurface scattering, realistic skin pores, cloth fibers visible, photographic depth of field, true-to-life color accuracy, high dynamic range
+
+popArt:
+a cat, looking at the viewer/camera, Pop art style, bold primary colors, halftone dot patterns, comic book outlines, high contrast, retro 1960s aesthetic, Andy Warhol inspired, Roy Lichtenstein ben-day dots, graphic flat shadows, screen printing effect, bold typography, collage elements
+
+artNouveau:
+a cat, looking at the viewer/camera, Art Nouveau style, ornate curvilinear designs, flowing organic lines, nature-inspired motifs (flowers, vines, peacock feathers), pastel color palette, decorative borders, stained glass effect, Alphonse Mucha inspired figures, elegant compositions, whiplash curves
+
+conceptArt:
+a cat, looking at the viewer/camera, Concept art, imaginative environments, detailed world-building elements, vibrant color schemes, atmospheric perspective, rule of thirds composition, dynamic lighting, visual storytelling, creature design, matte painting techniques, futuristic technology, orthographic views
+
+underwater:
+a cat, looking at the viewer/camera, Underwater scene, caustic light patterns, floating particles, bubbles, refracted sunlight, bioluminescent elements, flowing hair and fabrics, aquatic flora and fauna, distorted perspective, muted color palette, ethereal atmosphere, submerged ruins
+
+steampunk:
+a cat, looking at the viewer/camera, Steampunk aesthetic, brass and copper tones, intricate gears and clockwork, Victorian era fashion, retro-futuristic machinery, steam-powered devices, leather and rivets, sepia color grading, industrial revolution inspired, airships and flying machines, alternate history elements
+
+surrealism:
+a cat, looking at the viewer/camera, Surrealist composition, dreamlike imagery, impossible physics, Dali-esque melting objects, Magritte-inspired visual paradoxes, juxtaposition of unrelated elements, distorted perspectives, symbolic imagery, subconscious themes, ethereal lighting, metamorphosis effects
+
+fantasy:
+a cat, looking at the viewer/camera, High fantasy setting, magical aura effects, enchanted forests, mythical creatures (dragons, unicorns, phoenixes), epic landscapes, magical portals, glowing runes, ornate armor and weapons, spell casting visual effects, otherworldly architecture, heroic poses
+
+sciFi:
+a cat, looking at the viewer/camera, Futuristic cityscape, cyberpunk neon lighting, holographic displays, advanced technology, sleek metallic surfaces, dystopian atmosphere, bioluminescent alien lifeforms, space stations, terraformed planets, energy weapons, AI interfaces, augmented reality overlays
+
+impressionism:
+a cat, looking at the viewer/camera, Impressionist style, visible brushstrokes, soft diffused colors, en plein air lighting, everyday scenes, blurred edges, atmospheric effects, broken color technique, Monet-inspired water reflections, dappled sunlight, vibrant shadows, loose painterly style
+
+gothic:
+a cat, looking at the viewer/camera, Gothic architecture, dark brooding atmosphere, intricate stone carvings, medieval setting, haunting shadows, dramatic chiaroscuro lighting, gargoyles and grotesques, stained glass windows, flying buttresses, vaulted ceilings, ancient tomes, candlelit interiors
+
+minimalism:
+a cat, looking at the viewer/camera, Minimalist composition, clean geometric shapes, limited color palette, negative space, sparse elements, monochromatic scheme, modern sleek surfaces, simple typography, Bauhaus inspired, zen aesthetic, essential forms, balanced asymmetry
+
+abstract:
+a cat, looking at the viewer/camera, Abstract expressionism, non-representational forms, bold color fields, geometric shapes, dynamic brush strokes, layered textures, mixed media effect, experimental techniques, Kandinsky-inspired compositions, gestural mark-making, color theory exploration
+
+photorealism:
+a cat, looking at the viewer/camera, Photorealistic rendering, hyper-detailed textures, true-to-life lighting and shadows, accurate reflections and refractions, depth of field, chromatic aberration, lens distortion, film grain, color grading, high dynamic range, studio lighting setups
+
+retroFuturism:
+a cat, looking at the viewer/camera, 1980s retro-futurism, synthwave color palette, neon glow effects, VHS artifacts, CRT screen lines, vaporwave aesthetics, old school computer graphics, wireframe models, laser grids, airbrushed space backgrounds, retro sci-fi poster style
+
+noir:
+a cat, looking at the viewer/camera, Classic film noir style, high contrast black and white, deep shadows, low-key lighting, Venetian blind shadows, cigarette smoke, rain-soaked streets, neon signs, fedora hats and trench coats, mysterious silhouettes, Dutch angle compositions
+
+cubism:
+a cat, looking at the viewer/camera, Cubist style, fragmented geometric shapes, multiple perspectives, angular forms, limited color palette, flattened picture plane, analytical cubism, synthetic cubism, Picasso-inspired, collage-like composition, deconstructed objects, abstract interpretation
+
+watercolor:
+a cat, looking at the viewer/camera, Watercolor painting, translucent washes, wet-on-wet technique, color bleeding, soft edges, granulation effects, paper texture visible, loose brushwork, gestural strokes, white space preservation, pooling pigments, layered glazes
+
+artDeco:
+a cat, looking at the viewer/camera, Art Deco style, geometric patterns, luxurious materials, streamlined forms, bold curves, symmetrical compositions, stepped forms, sunburst motifs, Egyptian revival elements, metallic gold accents, sleek typography, Gatsby-esque opulence
+
+pixelArt:
+a cat, looking at the viewer/camera, Pixel art style, limited color palette, visible pixels, isometric perspective, 8-bit aesthetic, retro video game inspired, dithering effects, sprite animation frames, block shading, limited resolution, nostalgic gaming visuals
+
+baroque:
+a cat, looking at the viewer/camera, Baroque style, dramatic chiaroscuro, rich ornate details, dynamic compositions, theatrical lighting, emotional expressiveness, religious or mythological themes, trompe l'oeil effects, elaborate drapery, Caravaggio-inspired, voluptuous forms
+
+ukiyoE:
+a cat, looking at the viewer/camera, Ukiyo-e style, Japanese woodblock print, flat color areas, bold outlines, asymmetrical composition, negative space use, Hokusai-inspired waves, Mount Fuji motifs, geisha and samurai figures, seasonal nature elements
+
+brutalism:
+a cat, looking at the viewer/camera, Brutalist architecture, raw concrete textures, monolithic structures, geometric forms, exposed construction materials, minimalist functionality, imposing scale, strong shadow play, urban dystopian feel, monochromatic palette
+
+glitchArt:
+a cat, looking at the viewer/camera, Digital glitch effects, corrupt data aesthetics, pixel sorting, RGB color separation, datamoshing, scan lines, VHS artifacts, distorted images, fragmented patterns, neon color palette, circuit board elements, binary code overlay
+
+chalkArt:
+a cat, looking at the viewer/camera, Chalk drawing effect, textured paper background, pastel colors, soft edges, smudged shading, street art style, temporary art feel, 3D illusion techniques, anamorphic perspective, weathered look, imperfect lines
+
+rococo:
+a cat, looking at the viewer/camera, Rococo style, pastel color scheme, ornate gilded details, asymmetrical designs, nature motifs (shells, flowers), cherubs and putti, flowing curves, frilly ornamentation, whimsical themes, light and airy atmosphere, Fragonard-inspired
+
+stainedGlass:
+a cat, looking at the viewer/camera, Stained glass effect, lead came lines, translucent color panels, religious imagery, geometric patterns, rose window designs, light refraction effects, Gothic cathedral style, Art Nouveau inspired, mosaic-like composition
+
+expressionism:
+a cat, looking at the viewer/camera, Expressionist style, distorted forms, intense colors, emotional brushwork, exaggerated perspectives, psychological themes, dream-like imagery, Van Gogh-inspired swirls, raw emotive power, subjective interpretation
+
+cyberpunk:
+a cat, looking at the viewer/camera, Cyberpunk aesthetic, neon-lit cityscapes, high-tech low-life, cyborg elements, holographic interfaces, dystopian urban sprawl, retro-futuristic technology, rainy night scenes, corporate logos, neon signs, matrix-like code
+
+pointillism:
+a cat, looking at the viewer/camera, Pointillist technique, dots of pure color, optical color mixing, Seurat-inspired, vibrant complementary colors, detailed stippling, impressionistic scenes, Sunday afternoon aesthetic, scientific color theory, precise dot placement
+
+synthwave:
+a cat, looking at the viewer/camera, Synthwave aesthetic, 1980s retro-futurism, neon pink and blue palette, sunset gradients, grid patterns, chrome text effects, palm tree silhouettes, low poly mountains, starry skies, DeLorean-style cars, analog synthesizer visuals
+
+collage:
+a cat, looking at the viewer/camera, Mixed media collage, layered paper textures, cut-out elements, vintage ephemera, juxtaposed images, text fragments, distressed edges, decoupage effect, surreal compositions, hand-drawn additions, photo montage
+
+tiltShift:
+a cat, looking at the viewer/camera, Tilt-shift photography effect, selective focus, miniature fake effect, blurred foreground and background, heightened saturation, toy-like appearance, aerial perspective, forced perspective, diorama-style scenes
+
+risograph:
+a cat, looking at the viewer/camera, Risograph print style, limited color layers, slight misalignment, grainy textures, halftone patterns, vibrant spot colors, vintage poster look, imperfect ink coverage, minimalist designs, zine aesthetic
+
+graffiti:
+a cat, looking at the viewer/camera, Street art style, spray paint texture, bold outlines, drips and splatters, wildstyle lettering, urban decay background, stencil art, wheat paste posters, Banksy-inspired social commentary, vibrant color palette
+
+silhouette:
+a cat, looking at the viewer/camera, Silhouette art, high contrast black shapes, backlit scenes, dramatic sky backgrounds, detailed cutout style, negative space utilization, minimalist storytelling, papercut effect, shadow puppetry inspiration
+
